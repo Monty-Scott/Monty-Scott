@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/Monty-Sxott/">Monty-Scott</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and protectihg the CIA of organizations. These are some of the projects ive done to enhance by skillset in Vulnernability Mangments along side threat detection.
+I'm passionate about cybersecurity and protecting the CIA of my organization. These are some of the projects I've done to enhance my skillset in Vulnerability Management alongside threat detection.
 
 
 ## ⚠️ Vulnerability Management Projects
