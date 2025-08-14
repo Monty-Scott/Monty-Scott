@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and protectihg the CIA of organizations. Thes
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Monty-Scott/Vulnerability-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Monty-Scott/programmatic-vulnerability-remediations)**
+
 
 ## 🚨 Threat Hunting and Security Operations
 
